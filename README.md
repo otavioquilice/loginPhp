@@ -36,6 +36,6 @@ envia.php: Faz o cadastro de ordem de serviços;
   
  _____________________________________________________________________________________________
 
-  
-                  
+ A pasta buscar_files é referente a configuração front end do arquivo buscar.php
+ O front-end podendo ser editado de acordo com a necessidade.
                   
