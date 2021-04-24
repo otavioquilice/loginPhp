@@ -10,7 +10,7 @@ No banco de dados:
     "uname" é o nome de usuario para login; 
     "pwd" é a senha;
     
-   Nenecessário uma tabela chamada os(primeiro_nome, ultimo_nome, telefone, placa_veiculo,        modelo_veiculo, valor_os, descricao, tipo_os)
+   Necessário uma tabela chamada os(primeiro_nome, ultimo_nome, telefone, placa_veiculo, modelo_veiculo, valor_os, descricao, tipo_os)
   
  _____________________________________________________________________________________________
  Deixei paginas base como estrutura, podem ser mudadas de acordo com o front-end desejável. os.php, buscar.php, index.php.
