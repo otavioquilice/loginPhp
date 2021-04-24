@@ -29,10 +29,10 @@ Pagina de Login index.php:
  _____________________________________________________________________________________________
 
 Sobre as demais paginas .php
-  conexao.php: cria a conexao com o banco de dados
-  validarLogin.php: Faz a validação do usuario e senha digitados
-  busca.php: Faz a consulta no banco de dados
-  envia.php: Faz o cadastro de ordem de serviços
+conexao.php: cria a conexao com o banco de dados
+validarLogin.php: Faz a validação do usuario e senha digitados
+busca.php: Faz a consulta no banco de dados
+envia.php: Faz o cadastro de ordem de serviços
   
  _____________________________________________________________________________________________
 
